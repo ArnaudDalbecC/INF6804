@@ -1,4 +1,4 @@
-# INF6804
+# INF8225
 AI - Cat Face Generators
 
 Comparing DCGan, VAE and Diffusion architectures for the 
