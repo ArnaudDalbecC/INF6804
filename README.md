@@ -3,3 +3,7 @@ AI - Cat Face Generators
 
 Comparing DCGan, VAE and Diffusion architectures for the 
 task of generating new cat pictures.
+
+Download data from:
+https://github.com/fferlito/Cat-faces-dataset
+
